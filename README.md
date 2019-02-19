@@ -52,7 +52,7 @@ Is this your first time contributing to Open Source software? That's amazing - w
   * If you need help or advice, reach out to us at first-timers@status.im or ping us in the [#first-timers channel](https://get.status.im/chat/public/status) in the Status app. 
 
 ## Principles
-As a community, we decided on a set of principles to inform communication and decision making in the Status community. Our principles are: 
+As a community, we've decided on a set of principles to inform communication and decision making - they are:
 
 * Liberty
 * Censorship resistance
