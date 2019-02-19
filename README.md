@@ -11,36 +11,45 @@
 
 
 ## Introduction 
-Status is an open source platform to access the decentralized web. Using our app you can send & receive messages securely, browse the decentralized web, and send & receive crypto-currency - all without your data being stored on a third party server. 
+Status is an open source platform to access the decentralized web. Using our app you can send & receive messages securely, browse the decentralized web, and send & receive crypto-currencies. 
 
 ### Purpose 
-Status is a way to interact with the web in a new way, without your data being stored (and used) by third parties for their own gain. Status allows private & secure messaging 
+Status is a way to interact with the web in a new way, without your data being stored (and used) by third parties for their own gain. 
 
 *Features*
 * Browse the decentralized web.
    * Access a range of DApps direct from your phone. 
 * Send and receive secure messages. 
    * Using the [Whisper Protocol](https://github.com/ethereum/wiki/wiki/Whisper), we provide true privacy - no data stored with third parties. 
-   *
+   * Anti-spam mechanisms that aloow individuals to monetize their time and attention by setting minimum required deposits to message them.
+   * Built in Sticker Market, allowing users to purchase sticker packs for use in the Status app direct from the artists. 
+
 * Send and receive crypto-currencies.
   * Safe walllet, putting you (and not third parties) in total control of your funds.
   * Send and request crypto payments direct from your private chat. 
+  * Teller Network - providing borderless, peer-to-peer fiat-to-crypto ‘Teller Network’ that allows Stakeholders to find nearby users to exchange their cash for digital assets and currency, giving any smartphone owner in the world the ability to take control of their personal wealth.
 
+*Why use Status*
+  * You're concerned about the privacy and security of the web today.
+  * You want a simple solution to chat, browse & transact using the power of Ethereum. 
+  * You want control of your own data. 
 
 ## Contribute
-Would you like to join us? Awesome! First up, please (!) star this repo - here are some other things you can do:
+Would you like to join us? Awesome! First up, please star this repo! Here are some other things you can do:
 * As a developer
-    * Read our contribution guide for developers.
+    * Read our contribution guide for developers. (INSERT CONTRIBUTION GUIDE LINK)
     * Search for issues labelled [*"Good first issue"*](https://github.com/status-im/status-react/labels/good%20first%20issue).
     * Search for issues labelled [*"Help Wanted"*](https://github.com/status-im/status-react/labels/help%20wanted).
 * As a community member
     * [Download our app](https://status.im/), and create an issue to share your feedback and suggestions. 
     * Tell the world by sharing Status with your friends and followers. 
     * Search for issues labelled *"Help Wanted"*.
+    
+    ### Try it 
+    The nightly versions of Status are available here: https://status.im/nightly/
 
 ## First Timers 
 Is this your first time contributing to Open Source software? That's amazing - we're so glad you chose us! Doing anything for the first time can be a little daunting, so we like to treat first-time contributors like VIPs. Just for you:
-  * Check our contribution guide here. 
   * Search for issues labelled [*"First Timers Only"*](https://github.com/status-im/status-react/labels/first%20timers%20only): we've reserved these issues just for you. 
   * If you need help or advice, reach out to us at first-timers@status.im or ping us in the [#first-timers channel](https://get.status.im/chat/public/status) in the Status app. 
 
