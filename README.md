@@ -16,6 +16,9 @@ Status is an open source platform to access the decentralized web. Using our app
 ### Purpose 
 Status is a way to interact with the web in a new way, without your data being stored (and used) by third parties for their own gain. 
 
+    ### Try it 
+    The nightly versions of Status are available here: https://status.im/nightly/
+
 *Features*
 * Browse the decentralized web.
    * Access a range of DApps direct from your phone. 
@@ -45,8 +48,6 @@ Would you like to join us? Awesome! First up, please star this repo! Here are so
     * Tell the world by sharing Status with your friends and followers. 
     * Search for issues labelled *"Help Wanted"*.
     
-    ### Try it 
-    The nightly versions of Status are available here: https://status.im/nightly/
 
 ## First Timers 
 Is this your first time contributing to Open Source software? That's amazing - we're so glad you chose us! Doing anything for the first time can be a little daunting, so we like to treat first-time contributors like VIPs. Just for you:
