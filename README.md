@@ -1,21 +1,32 @@
 # Readme template 
+###### *This readme assumes that you're familiar with GitHub. If not, check out [this great guide](https://guides.github.com/activities/hello-world/) to get started.*
 
-Status is an open source platform to access the decentralized web. This repo is focused on (INSERT REPO SUMMARY HERE)
+
+****Status**** is an open source platform to access the decentralized web. 
 
 * [Introduction ](#introduction)
 * [Contribute](#contribute)
 * [Principles](#principles)
 * [Contact](#contact)
-* [Further Information](#further information)
+* [Further Information](#further)
 * [Licence](#licence)
 
 
 ## Introduction 
+Status has a large number of repos - this repo is focused on (INSERT REPO SUMMARY HERE). 
+
+### Purpose 
+
+Features (in progress)
 
 
 ## Contribute
+Would you like to join us? Awesome! Here are some things you can do:
 * As a developer
 * As a community member
+    * First up, star this repo! 
+    * [Download our app](https://status.im/), and create an issue to share your feedback and suggestions. 
+    * Tell the world about 
 
 
 ## Principles
