@@ -3,6 +3,7 @@
 
 * [Introduction ](#introduction)
 * [Contribute](#contribute)
+* [First Timers](#first)
 * [Principles](#principles)
 * [Contact](#contact)
 * [Further Information](#further)
@@ -25,17 +26,23 @@ Features
 
 
 ## Contribute
-Would you like to join us? Awesome! First up, star this repo - here are some other things you can do:
+Would you like to join us? Awesome! First up, please (!) star this repo - here are some other things you can do:
 * As a developer
-    * Read our contribution guide for developers
-    * Search for issues labelled [*"Good first issue"*](https://github.com/status-im/status-react/labels/good%20first%20issue) 
-    * Search for issues labelled [*"Help Wanted"*](https://github.com/status-im/status-react/labels/help%20wanted)
+    * Read our contribution guide for developers.
+    * Search for issues labelled [*"Good first issue"*](https://github.com/status-im/status-react/labels/good%20first%20issue).
+    * Search for issues labelled [*"Help Wanted"*](https://github.com/status-im/status-react/labels/help%20wanted).
 * As a community member
-    * First up, star this repo! 
     * [Download our app](https://status.im/), and create an issue to share your feedback and suggestions. 
     * Tell the world by sharing Status with your friends and followers. 
-    * Search for issues labelled *"Help Wanted"* 
+    * Search for issues labelled *"Help Wanted"*.
 
+## First Timers 
+Is this your first time contributing to Open Source software? That's amazing - we're so glad you chose us! Doing anything for the first time can be a little daunting, so we like to treat first-time contributors like VIPs. Just for you:
+  * Check our contribution guide here. 
+  * Search for issues labelled [*"First Timers Only"*](https://github.com/status-im/status-react/labels/first%20timers%20only): we've reserved these issues just for you. 
+  * If you need help or advice, reach out to us at first-timers@status.im or ping us in the [#first-timers channel](https://get.status.im/chat/public/status) in the Status app. 
+
+t's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 ## Principles
 As a community, we decided on a set of principles to inform communication and decision making in the Status community. Our principles are: 
@@ -61,6 +68,9 @@ Primarily, you'll find us in [the Status App](https://get.status.im/chat/public/
 
 ## Further information 
 Our website is https://status.im/ and we use https://discuss.status.im/ for more detailed discussion.
+
+### Shameless self promotion. 
+We rely on contributions from our community members - getting noticed on GitHub is hard (there are a ton of amazing projects out there). It would really help us if you would [star our repo here](https://github.com/status-im/status-react).
 
 ## Licence 
 Licensed under the [Mozilla Public License v2.0](https://github.com/status-im/status-react/blob/develop/LICENSE.md)
