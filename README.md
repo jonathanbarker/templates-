@@ -11,10 +11,7 @@
 
 
 ## Introduction 
-Status is an open source platform to access the decentralized web. Using our app you can send & receive messages securely, browse the decentralized web, and send & receive crypto-currencies. 
-
-### Purpose 
-Status is a way to interact with the web in a new way, without your data being stored (and used) by third parties for their own gain. 
+Status is an open source platform to access the decentralized web. We are a new way to access the web - using our app you can send & receive messages securely, browse the decentralized web, and send & receive crypto-currencies: all without your data being stored with a third party. 
 
 ### Try it 
 The nightly versions of Status are available here: https://status.im/nightly/
