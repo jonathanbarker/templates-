@@ -1,9 +1,6 @@
 # Readme template 
 ###### *This readme assumes that you're familiar with GitHub. If not, check out [this great guide](https://guides.github.com/activities/hello-world/) to get started.*
 
-
-****Status**** is an open source platform to access the decentralized web. 
-
 * [Introduction ](#introduction)
 * [Contribute](#contribute)
 * [Principles](#principles)
@@ -19,20 +16,25 @@ Status is an open source platform to access the decentralized web. Using our app
 
 Features
 * Browse the decentralized web.
-   * 
+   * Access a range of DApps 
 * Send and receive secure messages. 
    * 
    *
 * Send and receive crypto-currencies.
+  * 
 
 
 ## Contribute
-Would you like to join us? Awesome! Here are some things you can do:
+Would you like to join us? Awesome! First up, star this repo - here are some other things you can do:
 * As a developer
+    * Read our contribution guide for developers
+    * Search for issues labelled [*"Good first issue"*](https://github.com/status-im/status-react/labels/good%20first%20issue) 
+    * Search for issues labelled [*"Help Wanted"*](https://github.com/status-im/status-react/labels/help%20wanted)
 * As a community member
     * First up, star this repo! 
     * [Download our app](https://status.im/), and create an issue to share your feedback and suggestions. 
-    * Tell the world about 
+    * Tell the world by sharing Status with your friends and followers. 
+    * Search for issues labelled *"Help Wanted"* 
 
 
 ## Principles
