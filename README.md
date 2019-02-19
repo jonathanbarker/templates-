@@ -13,6 +13,9 @@
 ## Introduction 
 Status is an open source platform to access the decentralized web. We are a new way to access the web - using our app you can send & receive messages securely, browse the decentralized web, and send & receive crypto-currencies: all without your data being stored with a third party. 
 
+<img src="https://our.status.im/content/images/2019/01/Desktop-cover.png" width="450" height="300" />
+<img src="https://our.status.im/content/images/2018/09/0.9.27-1.png" width="450" height="300" />
+
 ### Try it 
 The nightly versions of Status are available here: https://status.im/nightly/
 
