@@ -69,9 +69,8 @@ You can see a [more detailed breakdown of our principles here](https://our.statu
 
 ## Contact
 Primarily, you'll find us in [the Status App](https://get.status.im/chat/public/status) but here's some other ways to get in touch:
-* The swarm lead for this repo is [JB - contact in Status app](https://get.status.im/user/jonathan.stateofus.eth)
-* email 
-* Gitter/RIOT
+* [Status method] The swarm lead for this repo is [JB - contact in Status app](https://get.status.im/user/jonathan.stateofus.eth)
+* [Non Status method] email (INSERT RELEVANT EMAIL HERE) or Gitter/RIOT (INSERT RELEVANT COMMS METHOD HERE)
 
 ## Further information 
 Our website is https://status.im/ and we use https://discuss.status.im/ for more detailed discussion.
