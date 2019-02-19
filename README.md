@@ -14,15 +14,17 @@
 Status is an open source platform to access the decentralized web. Using our app you can send & receive messages securely, browse the decentralized web, and send & receive crypto-currency - all without your data being stored on a third party server. 
 
 ### Purpose 
+Status is a way to interact with the web in a new way, without your data being stored (and used) by third parties for their own gain. Status allows private & secure messaging 
 
-Features
+*Features*
 * Browse the decentralized web.
-   * Access a range of DApps 
+   * Access a range of DApps direct from your phone. 
 * Send and receive secure messages. 
-   * 
+   * Using the [Whisper Protocol](https://github.com/ethereum/wiki/wiki/Whisper), we provide true privacy - no data stored with third parties. 
    *
 * Send and receive crypto-currencies.
-  * 
+  * Safe walllet, putting you (and not third parties) in total control of your funds.
+  * Send and request crypto payments direct from your private chat. 
 
 
 ## Contribute
@@ -41,8 +43,6 @@ Is this your first time contributing to Open Source software? That's amazing - w
   * Check our contribution guide here. 
   * Search for issues labelled [*"First Timers Only"*](https://github.com/status-im/status-react/labels/first%20timers%20only): we've reserved these issues just for you. 
   * If you need help or advice, reach out to us at first-timers@status.im or ping us in the [#first-timers channel](https://get.status.im/chat/public/status) in the Status app. 
-
-t's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
 ## Principles
 As a community, we decided on a set of principles to inform communication and decision making in the Status community. Our principles are: 
