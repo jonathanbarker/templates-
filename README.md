@@ -17,7 +17,7 @@ Status is an open source platform to access the decentralized web. We are a new 
 <img src="https://our.status.im/content/images/2018/09/0.9.27-1.png" width="450" height="300" />
 
 ### Try it 
-The nightly versions of Status are available here: https://status.im/nightly/
+The nightly versions of Status are available here: https://status.im/nightly/. Instructions on how to build Status here: https://status.im/build_status/
 
 *Features*
 * Browse the decentralized web.
